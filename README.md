@@ -1,17 +1,21 @@
 <div align="center">
 
-#  Vishwa
+```text
+██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗
+██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗
+██║   ██║██║███████╗███████║██║ █╗ ██║███████║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║
+ ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝
+```
 
-### 🧠 Building AI that Thinks, Learns & Solves Real Problems
+## 🚀 AI Engineer • Generative AI • Machine Learning • MLOps
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Generative+AI+Builder;Designing+LLM+Applications;Building+Autonomous+AI+Agents;Turning+Ideas+Into+Intelligent+Systems" />
-
----
-
-*"Code is the language. Intelligence is the goal."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Generative+AI+Developer;Machine+Learning+Engineer;LLMs+•+LangChain+•+RAG+•+AWS+•+Docker" />
 
 </div>
 
+---
 ---
 
 # 🚀 Mission
